@@ -14,7 +14,7 @@
       "go_live_at": null,
       "expire_at": null,
       "expired": false,
-      "body": "<p>Copyright <b>The Wagtail Bakery</b>, 2019. All rights reserved.<br/><i>\"If you read a lot you're well read / If you eat a lot you're well bread.\"</i></p>"
+      "body": "<p>Copyright <b>CMS</b>, 2024. All rights reserved.<br/></p>"
     }
   },
   {
@@ -96,9 +96,9 @@
     "model": "base.genericsettings",
     "pk": 1,
     "fields": {
-      "twitter_url": "https://twitter.com/wagtailcms",
-      "github_url": "https://github.com/wagtail/wagtail",
-      "organisation_url": "https://wagtail.org/"
+      "twitter_url": "https://digits88.com/",
+      "github_url": "https://github.com/digits88",
+      "organisation_url": "https://digits88.com/"
     }
   },
   {
@@ -1236,7 +1236,7 @@
       "type": "video",
       "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ofCHfv2lOTE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Baking cookies\"></iframe>",
       "title": "Baking cookies",
-      "author_name": "Wagtail",
+      "author_name": "Digits88",
       "provider_name": "YouTube",
       "thumbnail_url": "https://i.ytimg.com/vi/ofCHfv2lOTE/hqdefault.jpg",
       "width": 200,
